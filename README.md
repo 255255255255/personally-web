@@ -2,9 +2,6 @@
 title: 个人网站-后台数据库相连
 comments: true
 date: 2018-07-02 21:54:05
-categories:
-tags:
-about:
 
 ---
 
@@ -95,4 +92,5 @@ about:
 我的课程表图
 
 ![ ](http://images.cnblogs.com/cnblogs_com/cliy-10/1246192/o_9.png)
+
 我的成绩表图
