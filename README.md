@@ -60,7 +60,6 @@ date: 2018-07-02 21:54:05
 
 ![ ](http://images.cnblogs.com/cnblogs_com/cliy-10/1246192/o_2.png)
 
-
 * （1）用户表:
 
 包括用户编号（UserID）、用户姓名（UserName）、用户性别（UserSex）、用户密码（UserPassword）、用户电子邮件（UserEmail），用于存储用户的各类主要信息，可以通过前台对用户表数据进行增加、删除、修改、查询操作。用户的主键是UserID（用户账号）。用户表是本数据库的重要信息表，如下图所示。
